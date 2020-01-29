@@ -90,11 +90,10 @@ p {
 #follow-text {
   margin: 10px auto;
   font-size: 20px
-  padding: 5px;
 }
 
 .pictos > li {
-  padding: 0px 20px;
+  padding: 2px 20px;
   list-style: none;
   display: inline-block;
   margin: auto;
