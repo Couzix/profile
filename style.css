@@ -90,6 +90,7 @@ p {
 #follow-text {
   margin: 10px auto;
   font-size: 20px
+  padding: 5px;
 }
 
 .pictos > li {
